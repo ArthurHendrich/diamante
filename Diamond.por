@@ -2,10 +2,11 @@ programa {
 	
 	funcao inicio() {
 
-		/* Esse programa irá criar um diamante utilizando * para classificalo
-		 * Além disso, é importante perceber que o que contabiliza o tamanho do diamante
-		 * É o tamanho da linha centra que é, justamente, o valor do numero digitado
-		*/
+	/* Esse programa irá criar um diamante utilizando * para classificalo
+	* Além disso, é importante perceber que o que contabiliza o tamanho do diamante
+	* É o tamanho da linha centra que é, justamente, o valor do numero digitado
+	*/
+	
      	inteiro digito
      	
      	escreva("Digite o numero: ")
@@ -69,14 +70,3 @@ programa {
             }
         }
     }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 271; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
